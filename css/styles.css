@@ -399,6 +399,10 @@ ul {
   font-size: 14px;
   line-height: 1.71;*/
 }
+/*Border headera на странице портфолио*/
+.section-header.border {
+  border-bottom: 1px solid #eeeeee;
+}
 
 .section.team {
   background-color: var(--second-white-color);
